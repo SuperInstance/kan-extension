@@ -1,0 +1,9 @@
+[package]
+name = "kan-extension"
+version = "0.1.0"
+description = "Category theory Kan extensions for capability composition"
+repository = "https://github.com/SuperInstance/kan-extension"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
